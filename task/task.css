@@ -1,0 +1,37 @@
+.topnav {
+  background-color: green;
+      height: 74px;
+ }
+ .active{
+ 	padding-right: 50px;
+ 	    font-size: 55px;
+ 	    padding-left: 300px;
+
+ }
+ #ab{
+ 	text-align: center;
+    font-size: 53px;
+}
+#cd{
+	    font-size: 54px;
+	    padding-left: 813px;
+	    padding-right: 15px;
+	        
+}
+.font{
+	font-size: 33px;
+	margin-left: 296px;
+}
+.bottomnav{
+	background-color: green;
+ }
+#ef{
+	margin-right: 10px;
+	font-size: 33px;
+}
+.set{
+	font-size: 55px;
+	background-color: green;
+width: 100%;
+
+}
